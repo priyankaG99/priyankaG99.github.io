@@ -1,0 +1,129 @@
+!DOCTYPE html
+html lang=en
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titlePriyanka Ghute - Java Developertitle
+    style
+        body {
+            font-family Arial, sans-serif;
+            margin 0;
+            padding 0;
+            background-color #f4f4f9;
+            color #333;
+        }
+
+        header {
+            background-color #4CAF50;
+            color white;
+            text-align center;
+            padding 50px 0;
+        }
+
+        header h1 {
+            margin 0;
+            font-size 2.5rem;
+        }
+
+        header p {
+            font-size 1.2rem;
+            margin-top 10px;
+        }
+
+        section {
+            padding 20px;
+            margin 20px;
+            background-color white;
+            border-radius 8px;
+        }
+
+        section h2 {
+            color #4CAF50;
+        }
+
+        ul {
+            list-style-type none;
+            padding-left 0;
+        }
+
+        ul li {
+            margin-bottom 8px;
+        }
+
+        footer {
+            text-align center;
+            padding 10px 0;
+            background-color #333;
+            color white;
+        }
+
+        a {
+            color #4CAF50;
+            text-decoration none;
+        }
+    style
+head
+body
+
+header
+    h1Priyanka Ghuteh1
+    pJava Developer  Web Developerp
+header
+
+section
+    h2Summaryh2
+    pInnovative and results-oriented Java Developer with over 3 years of experience in designing, developing, and maintaining web applications. Adept at leveraging Java and related technologies to create robust and scalable solutions. Proven expertise in enhancing application security, conducting thorough unit testing, and collaborating within agile teams to deliver high-quality software.p
+section
+
+section
+    h2Career Overviewh2
+    h3Tata Consultancy Services (TCS) - System Engineerh3
+    pstrongNovember 2021 - Present  Mumbai, Maharashtrastrongp
+    ul
+        liDeveloped and enhanced web applications, implementing features such as password hashing and encryption for improved security.li
+        liDesigned and developed RESTful APIs for various project modules.li
+        liProvided real-time production support, ensuring minimal disruption to services.li
+        liPlayed a key role in upgrading the system to WebSphere Application Server (WAS) version 9, contributing to overall system performance and reliability.li
+    ul
+
+    h3Primal Pixels IT Solutions - Web Development Internh3
+    pstrongJanuary 2020 - April 2020strongp
+    ul
+        liDeveloped dynamic web applications using HTML, CSS, and Java Server Pages (JSP).li
+        liCollaborated with the team to troubleshoot and enhance existing applications.li
+    ul
+section
+
+section
+    h2Skillsh2
+    ul
+        listrongLanguagesstrong Java, JavaScript, JSP, SQL, XML, HTML, CSS, Bootstrap, Unix, MySQLli
+        listrongFrameworksstrong Spring, Struts, Hibernateli
+        listrongToolsstrong Eclipse, Maven, Gitli
+        listrongDatabasestrong MySQLli
+    ul
+section
+
+section
+    h2Educationh2
+    h3Bachelor of Technology in Electrical and Electronics Engineeringh3
+    pRajasthan Technical University  2017 - 2021p
+    h3Higher Secondary Certificate in Biofocal Science (Electronics)h3
+    pChandmal Tarachand Bora College  2015 – 2017p
+section
+
+section
+    h2Achievements & Awardsh2
+    ul
+        liParticipated in Smart India Hackathon 2018 with innovative solutions.li
+        liPublished a research paper at the 9th International Conference on RAPSE.li
+    ul
+section
+
+footer
+    pContact a href=mailtopriyankaghute1999@gmail.compriyankaghute1999@gmail.comap
+    pa href=httpswww.linkedin.cominpriyanka-ghute-94ba06176 target=_blankLinkedInap
+footer
+
+body
+html
